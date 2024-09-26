@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+lastupdate.tmp
+ignore
+tests/conf
+conf/app.conf
+main
